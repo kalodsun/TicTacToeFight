@@ -17,7 +17,7 @@ enum class BoardState
 class TicTacToePlayer
 {
 public:
-	TicTacToePlayer(int playerIndex)
+	TicTacToePlayer(char symbol)
 	{
 
 	}
